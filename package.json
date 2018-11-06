@@ -1,0 +1,16 @@
+{
+  "name": "octoberbotcourse2017",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "./token && node app.js"
+  },
+  "author": "Mario Ruiz",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.14.0",
+    "node-wit": "^4.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
